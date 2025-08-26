@@ -1,0 +1,1316 @@
+{
+  "typography": {
+    "headings": [
+      {
+        "tag": "h1",
+        "styles": {
+          "fontFamily": "\"Julius Sans One\", sans-serif",
+          "fontSize": "51.2px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(255, 255, 255)",
+          "padding": "60px 0px 5px",
+          "margin": "15px 0px 0px"
+        },
+        "text": "CSS Zen Garden",
+        "className": "",
+        "id": ""
+      },
+      {
+        "tag": "h2",
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "25.6px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "italic",
+          "color": "rgba(255, 255, 255, 0.6)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgba(255, 255, 255, 0.6)",
+          "padding": "5px 0px 60px 70px",
+          "margin": "0px"
+        },
+        "text": "The Beauty of CSS Design",
+        "className": "",
+        "id": ""
+      },
+      {
+        "tag": "h3",
+        "styles": {
+          "fontFamily": "\"Julius Sans One\", sans-serif",
+          "fontSize": "28.8px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(46, 72, 76)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(46, 72, 76)",
+          "padding": "0px",
+          "margin": "0px"
+        },
+        "text": "The Road to Enlightenment",
+        "className": "",
+        "id": ""
+      },
+      {
+        "tag": "h3",
+        "styles": {
+          "fontFamily": "\"Julius Sans One\", sans-serif",
+          "fontSize": "28.8px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(46, 72, 76)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(46, 72, 76)",
+          "padding": "0px",
+          "margin": "0px"
+        },
+        "text": "So What is This About?",
+        "className": "",
+        "id": ""
+      },
+      {
+        "tag": "h3",
+        "styles": {
+          "fontFamily": "\"Julius Sans One\", sans-serif",
+          "fontSize": "28.8px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(46, 72, 76)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(46, 72, 76)",
+          "padding": "0px",
+          "margin": "0px"
+        },
+        "text": "Participation",
+        "className": "",
+        "id": ""
+      },
+      {
+        "tag": "h3",
+        "styles": {
+          "fontFamily": "\"Julius Sans One\", sans-serif",
+          "fontSize": "28.8px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(46, 72, 76)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(46, 72, 76)",
+          "padding": "0px",
+          "margin": "0px"
+        },
+        "text": "Benefits",
+        "className": "",
+        "id": ""
+      },
+      {
+        "tag": "h3",
+        "styles": {
+          "fontFamily": "\"Julius Sans One\", sans-serif",
+          "fontSize": "28.8px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(46, 72, 76)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(46, 72, 76)",
+          "padding": "0px 96px 0px 192px",
+          "margin": "0px"
+        },
+        "text": "Requirements",
+        "className": "",
+        "id": ""
+      },
+      {
+        "tag": "h3",
+        "styles": {
+          "fontFamily": "\"Julius Sans One\", sans-serif",
+          "fontSize": "28.8px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(46, 72, 76)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(46, 72, 76)",
+          "padding": "0px",
+          "margin": "57.6px 0px 0px"
+        },
+        "text": "Select a Design:",
+        "className": "select",
+        "id": ""
+      },
+      {
+        "tag": "h3",
+        "styles": {
+          "fontFamily": "\"Julius Sans One\", sans-serif",
+          "fontSize": "28.8px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(46, 72, 76)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(46, 72, 76)",
+          "padding": "0px",
+          "margin": "57.6px 0px 0px"
+        },
+        "text": "Archives:",
+        "className": "archives",
+        "id": ""
+      },
+      {
+        "tag": "h3",
+        "styles": {
+          "fontFamily": "\"Julius Sans One\", sans-serif",
+          "fontSize": "28.8px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(46, 72, 76)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(46, 72, 76)",
+          "padding": "0px",
+          "margin": "57.6px 0px 0px"
+        },
+        "text": "Resources:",
+        "className": "resources",
+        "id": ""
+      }
+    ],
+    "paragraphs": [
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "32px",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(50, 80, 80)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(50, 80, 80)",
+          "padding": "0px",
+          "margin": "12px 0px"
+        },
+        "text": "A demonstration of what can be accomplished through CSS-based design. Select any style sheet from th",
+        "className": "",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "32px",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(50, 80, 80)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(50, 80, 80)",
+          "padding": "0px",
+          "margin": "12px 0px 0px"
+        },
+        "text": "Download the example html file and css file",
+        "className": "",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "32px",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(50, 80, 80)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(50, 80, 80)",
+          "padding": "0px",
+          "margin": "12px 0px"
+        },
+        "text": "Littering a dark and dreary road lay the past relics of browser-specific tags, incompatible DOMs, br",
+        "className": "",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "32px",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(50, 80, 80)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(50, 80, 80)",
+          "padding": "0px",
+          "margin": "12px 0px"
+        },
+        "text": "We must clear the mind of the past. Web enlightenment has been achieved thanks to the tireless effor",
+        "className": "",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "32px",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(50, 80, 80)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(50, 80, 80)",
+          "padding": "0px",
+          "margin": "12px 0px 0px"
+        },
+        "text": "The CSS Zen Garden invites you to relax and meditate on the important lessons of the masters. Begin ",
+        "className": "",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "32px",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(50, 80, 80)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(50, 80, 80)",
+          "padding": "0px",
+          "margin": "12px 0px"
+        },
+        "text": "There is a continuing need to show the power of CSS. The Zen Garden aims to excite, inspire, and enc",
+        "className": "",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "32px",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(50, 80, 80)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(50, 80, 80)",
+          "padding": "0px",
+          "margin": "12px 0px 0px"
+        },
+        "text": "CSS allows complete and total control over the style of a hypertext document. The only way this can ",
+        "className": "",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "32px",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(50, 80, 80)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(50, 80, 80)",
+          "padding": "0px",
+          "margin": "12px 0px 0px"
+        },
+        "text": "Strong visual design has always been our focus. You are modifying this page, so strong CSS skills ar",
+        "className": "",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "32px",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(50, 80, 80)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(50, 80, 80)",
+          "padding": "0px",
+          "margin": "12px 0px 0px"
+        },
+        "text": "You may modify the style sheet in any way you wish, but not the HTML. This may seem daunting at firs",
+        "className": "",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "32px",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(50, 80, 80)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(50, 80, 80)",
+          "padding": "0px",
+          "margin": "12px 0px 0px"
+        },
+        "text": "Download the sample HTML and CSS to work on a copy locally. Once you have completed your masterpiece",
+        "className": "",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "32px",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(50, 80, 80)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(50, 80, 80)",
+          "padding": "0px",
+          "margin": "12px 0px 0px"
+        },
+        "text": "Why participate? For recognition, inspiration, and a resource we can all refer to showing people how",
+        "className": "",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "32px",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(50, 80, 80)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(50, 80, 80)",
+          "padding": "16px 96px 0px 192px",
+          "margin": "0px"
+        },
+        "text": "Where possible, we would like to see mostly CSS 1 & 2 usage. CSS 3 & 4 should be limited to widely-s",
+        "className": "",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "32px",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(50, 80, 80)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(50, 80, 80)",
+          "padding": "16px 96px 0px 192px",
+          "margin": "0px"
+        },
+        "text": "Luckily, designing this way shows how well various browsers have implemented CSS by now. When sticki",
+        "className": "",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "32px",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(50, 80, 80)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(50, 80, 80)",
+          "padding": "16px 96px 0px 192px",
+          "margin": "0px"
+        },
+        "text": "We ask that you submit original artwork. Please respect copyright laws. Please keep objectionable ma",
+        "className": "",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "32px",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(50, 80, 80)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(50, 80, 80)",
+          "padding": "16px 96px 64px 192px",
+          "margin": "0px"
+        },
+        "text": "This is a learning exercise as well as a demonstration. You retain full copyright on your graphics (",
+        "className": "",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "32px",
+          "fontWeight": "400",
+          "lineHeight": "64px",
+          "letterSpacing": "normal",
+          "fontStyle": "italic",
+          "color": "rgba(255, 255, 255, 0.4)",
+          "backgroundColor": "rgb(62, 93, 103)",
+          "borderColor": "rgba(255, 255, 255, 0.4)",
+          "padding": "96px 230.391px",
+          "margin": "0px"
+        },
+        "text": "By Dave Shea. Bandwidth graciously donated by mediatemple. Now available: Zen Garden, the book.",
+        "className": "",
+        "id": ""
+      }
+    ],
+    "buttons": [],
+    "inputs": [],
+    "links": [
+      {
+        "styles": {
+          "fontFamily": "\"Julius Sans One\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "32px",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(128, 155, 126)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(128, 155, 126)",
+          "padding": "1px 10px 0px 32px",
+          "margin": "-1px -10px -1px -6px"
+        },
+        "text": "html file",
+        "href": "https://www.csszengarden.com/examples/index",
+        "className": "",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Julius Sans One\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "32px",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(128, 155, 126)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(128, 155, 126)",
+          "padding": "1px 10px 0px 32px",
+          "margin": "-1px -10px -1px -6px"
+        },
+        "text": "css file",
+        "href": "https://www.csszengarden.com/examples/style.css",
+        "className": "",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "32px",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(13, 139, 161)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(13, 139, 161)",
+          "padding": "0px",
+          "margin": "0px"
+        },
+        "text": "CSS Resource Guide",
+        "href": "https://www.csszengarden.com/pages/resources/",
+        "className": "",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "32px",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(13, 139, 161)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(13, 139, 161)",
+          "padding": "0px",
+          "margin": "0px"
+        },
+        "text": "HTML",
+        "href": "https://www.csszengarden.com/examples/index",
+        "className": "",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "32px",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(13, 139, 161)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(13, 139, 161)",
+          "padding": "0px",
+          "margin": "0px"
+        },
+        "text": "CSS",
+        "href": "https://www.csszengarden.com/examples/style.css",
+        "className": "",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "32px",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(13, 139, 161)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(13, 139, 161)",
+          "padding": "0px",
+          "margin": "0px"
+        },
+        "text": "Send us a link",
+        "href": "https://www.csszengarden.com/pages/submit/",
+        "className": "",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "32px",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(13, 139, 161)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(13, 139, 161)",
+          "padding": "0px",
+          "margin": "0px"
+        },
+        "text": "submission guidelines",
+        "href": "https://www.csszengarden.com/pages/submit/guidelines/",
+        "className": "",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "32px",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(13, 139, 161)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(13, 139, 161)",
+          "padding": "0px",
+          "margin": "0px"
+        },
+        "text": "one on this site",
+        "href": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "className": "",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "32px",
+          "fontWeight": "400",
+          "lineHeight": "64px",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgba(255, 255, 255, 0.7)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgba(255, 255, 255, 0.7)",
+          "padding": "0px",
+          "margin": "0px"
+        },
+        "text": "Dave Shea",
+        "href": "http://www.mezzoblue.com/",
+        "className": "",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "32px",
+          "fontWeight": "400",
+          "lineHeight": "64px",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgba(255, 255, 255, 0.7)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgba(255, 255, 255, 0.7)",
+          "padding": "0px",
+          "margin": "0px"
+        },
+        "text": "mediatemple",
+        "href": "http://www.mediatemple.net/",
+        "className": "",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "32px",
+          "fontWeight": "400",
+          "lineHeight": "64px",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgba(255, 255, 255, 0.7)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgba(255, 255, 255, 0.7)",
+          "padding": "0px",
+          "margin": "0px"
+        },
+        "text": "Zen Garden, the book",
+        "href": "http://www.amazon.com/exec/obidos/ASIN/0321303474/mezzoblue-20/",
+        "className": "",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgba(255, 255, 255, 0.5)",
+          "padding": "76px 0px 0px",
+          "margin": "0px 48px"
+        },
+        "text": "HTML",
+        "href": "http://validator.w3.org/check/referer",
+        "className": "zen-validate-html",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgba(255, 255, 255, 0.5)",
+          "padding": "76px 0px 0px",
+          "margin": "0px 48px"
+        },
+        "text": "CSS",
+        "href": "http://jigsaw.w3.org/css-validator/check/referer",
+        "className": "zen-validate-css",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgba(255, 255, 255, 0.5)",
+          "padding": "76px 0px 0px",
+          "margin": "0px 48px"
+        },
+        "text": "CC",
+        "href": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "className": "zen-license",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgba(255, 255, 255, 0.5)",
+          "padding": "76px 0px 0px",
+          "margin": "0px 48px"
+        },
+        "text": "A11y",
+        "href": "http://mezzoblue.com/zengarden/faq/#aaa",
+        "className": "zen-accessibility",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgba(255, 255, 255, 0.5)",
+          "padding": "76px 0px 0px",
+          "margin": "0px 48px"
+        },
+        "text": "GH",
+        "href": "https://github.com/mezzoblue/csszengarden.com",
+        "className": "zen-github",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Julius Sans One\", sans-serif",
+          "fontSize": "19.2px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(96, 116, 118)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(96, 116, 118)",
+          "padding": "0px",
+          "margin": "0px 0px 4.8px"
+        },
+        "text": "Mid Century Modern",
+        "href": "https://www.csszengarden.com/221/",
+        "className": "design-name",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "14.4px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(97, 104, 87)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(97, 104, 87)",
+          "padding": "0px",
+          "margin": "0px"
+        },
+        "text": "Andrew Lohman",
+        "href": "http://andrewlohman.com/",
+        "className": "designer-name",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Julius Sans One\", sans-serif",
+          "fontSize": "19.2px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(96, 116, 118)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(96, 116, 118)",
+          "padding": "0px",
+          "margin": "0px 0px 4.8px"
+        },
+        "text": "Garments",
+        "href": "https://www.csszengarden.com/220/",
+        "className": "design-name",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "14.4px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(97, 104, 87)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(97, 104, 87)",
+          "padding": "0px",
+          "margin": "0px"
+        },
+        "text": "Dan Mall",
+        "href": "http://danielmall.com/",
+        "className": "designer-name",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Julius Sans One\", sans-serif",
+          "fontSize": "19.2px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(96, 116, 118)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(96, 116, 118)",
+          "padding": "0px",
+          "margin": "0px 0px 4.8px"
+        },
+        "text": "Steel",
+        "href": "https://www.csszengarden.com/219/",
+        "className": "design-name",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "14.4px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(97, 104, 87)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(97, 104, 87)",
+          "padding": "0px",
+          "margin": "0px"
+        },
+        "text": "Steffen Knoeller",
+        "href": "http://steffen-knoeller.de/",
+        "className": "designer-name",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Julius Sans One\", sans-serif",
+          "fontSize": "19.2px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(96, 116, 118)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(96, 116, 118)",
+          "padding": "0px",
+          "margin": "0px 0px 4.8px"
+        },
+        "text": "Apothecary",
+        "href": "https://www.csszengarden.com/218/",
+        "className": "design-name",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "14.4px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(97, 104, 87)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(97, 104, 87)",
+          "padding": "0px",
+          "margin": "0px"
+        },
+        "text": "Trent Walton",
+        "href": "http://trentwalton.com/",
+        "className": "designer-name",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Julius Sans One\", sans-serif",
+          "fontSize": "19.2px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(96, 116, 118)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(96, 116, 118)",
+          "padding": "0px",
+          "margin": "0px 0px 4.8px"
+        },
+        "text": "Screen Filler",
+        "href": "https://www.csszengarden.com/217/",
+        "className": "design-name",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "14.4px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(97, 104, 87)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(97, 104, 87)",
+          "padding": "0px",
+          "margin": "0px"
+        },
+        "text": "Elliot Jay Stocks",
+        "href": "http://elliotjaystocks.com/",
+        "className": "designer-name",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Julius Sans One\", sans-serif",
+          "fontSize": "19.2px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(96, 116, 118)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(96, 116, 118)",
+          "padding": "0px",
+          "margin": "0px 0px 4.8px"
+        },
+        "text": "Fountain Kiss",
+        "href": "https://www.csszengarden.com/216/",
+        "className": "design-name",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "14.4px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(97, 104, 87)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(97, 104, 87)",
+          "padding": "0px",
+          "margin": "0px"
+        },
+        "text": "Jeremy Carlson",
+        "href": "http://jeremycarlson.com/",
+        "className": "designer-name",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Julius Sans One\", sans-serif",
+          "fontSize": "19.2px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(96, 116, 118)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(96, 116, 118)",
+          "padding": "0px",
+          "margin": "0px 0px 4.8px"
+        },
+        "text": "A Robot Named Jimmy",
+        "href": "https://www.csszengarden.com/215/",
+        "className": "design-name",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "14.4px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(97, 104, 87)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(97, 104, 87)",
+          "padding": "0px",
+          "margin": "0px"
+        },
+        "text": "meltmedia",
+        "href": "http://meltmedia.com/",
+        "className": "designer-name",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Julius Sans One\", sans-serif",
+          "fontSize": "19.2px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(96, 116, 118)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(96, 116, 118)",
+          "padding": "0px",
+          "margin": "0px 0px 4.8px"
+        },
+        "text": "Verde Moderna",
+        "href": "https://www.csszengarden.com/214/",
+        "className": "design-name",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "14.4px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(97, 104, 87)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(97, 104, 87)",
+          "padding": "0px",
+          "margin": "0px"
+        },
+        "text": "Dave Shea",
+        "href": "http://www.mezzoblue.com/",
+        "className": "designer-name",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Libre Baskerville\", sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgba(255, 255, 255, 0.65)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgba(255, 255, 255, 0.65)",
+          "padding": "0px",
+          "margin": "0px"
+        },
+        "text": "\n\t\t\t\t\t\t\t\tNext Designs ›\n\t\t\t\t\t\t\t",
+        "href": "https://www.csszengarden.com/214/page1",
+        "className": "",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Julius Sans One\", sans-serif",
+          "fontSize": "19.2px",
+          "fontWeight": "400",
+          "lineHeight": "50px",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgba(255, 255, 255, 0.65)",
+          "backgroundColor": "rgba(255, 255, 255, 0.1)",
+          "borderColor": "rgba(255, 255, 255, 0.65)",
+          "padding": "12px 0px 0px",
+          "margin": "0px 0px 4.8px"
+        },
+        "text": "\n\t\t\t\t\t\t\t\tView All Designs\t\t\t\t\t\t\t",
+        "href": "https://www.csszengarden.com/pages/alldesigns/",
+        "className": "",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Julius Sans One\", sans-serif",
+          "fontSize": "19.2px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(96, 116, 118)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(96, 116, 118)",
+          "padding": "0px",
+          "margin": "0px 0px 4.8px"
+        },
+        "text": "\n\t\t\t\t\t\t\tView This Design’s CSS\t\t\t\t\t\t",
+        "href": "https://www.csszengarden.com/214/214.css",
+        "className": "",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Julius Sans One\", sans-serif",
+          "fontSize": "19.2px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(96, 116, 118)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(96, 116, 118)",
+          "padding": "0px",
+          "margin": "0px 0px 4.8px"
+        },
+        "text": "\n\t\t\t\t\t\t\tCSS Resources\t\t\t\t\t\t",
+        "href": "https://www.csszengarden.com/pages/resources/",
+        "className": "",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Julius Sans One\", sans-serif",
+          "fontSize": "19.2px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(96, 116, 118)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(96, 116, 118)",
+          "padding": "0px",
+          "margin": "0px 0px 4.8px"
+        },
+        "text": "\n\t\t\t\t\t\t\tFAQ\t\t\t\t\t\t",
+        "href": "https://www.csszengarden.com/pages/faq/",
+        "className": "",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Julius Sans One\", sans-serif",
+          "fontSize": "19.2px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(96, 116, 118)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(96, 116, 118)",
+          "padding": "0px",
+          "margin": "0px 0px 4.8px"
+        },
+        "text": "\n\t\t\t\t\t\t\tSubmit a Design\t\t\t\t\t\t",
+        "href": "https://www.csszengarden.com/pages/submit/",
+        "className": "",
+        "id": ""
+      },
+      {
+        "styles": {
+          "fontFamily": "\"Julius Sans One\", sans-serif",
+          "fontSize": "19.2px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": "normal",
+          "fontStyle": "normal",
+          "color": "rgb(96, 116, 118)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderColor": "rgb(96, 116, 118)",
+          "padding": "0px",
+          "margin": "0px 0px 4.8px"
+        },
+        "text": "\n\t\t\t\t\t\t\tTranslations\t\t\t\t\t\t",
+        "href": "https://www.csszengarden.com/pages/translations/",
+        "className": "",
+        "id": ""
+      }
+    ]
+  },
+  "colors": {
+    "primary": [],
+    "secondary": [],
+    "accent": [],
+    "background": [
+      "rgb(45, 99, 96)",
+      "rgba(138, 188, 159, 0.5)",
+      "rgb(62, 93, 103)",
+      "rgb(19, 67, 71)",
+      "rgb(237, 244, 240)",
+      "rgba(255, 255, 255, 0.1)"
+    ],
+    "text": [
+      "rgb(0, 0, 0)",
+      "rgb(50, 80, 80)",
+      "rgb(255, 255, 255)",
+      "rgba(255, 255, 255, 0.6)",
+      "rgb(128, 155, 126)",
+      "rgb(46, 72, 76)",
+      "rgb(13, 139, 161)",
+      "rgba(255, 255, 255, 0.4)",
+      "rgba(255, 255, 255, 0.7)",
+      "rgba(255, 255, 255, 0.5)",
+      "rgb(192, 202, 195)",
+      "rgb(96, 116, 118)",
+      "rgb(97, 104, 87)",
+      "rgba(255, 255, 255, 0.65)"
+    ],
+    "border": [
+      "rgb(0, 0, 0)",
+      "rgb(50, 80, 80)",
+      "rgba(19, 67, 71, 0.8) rgb(50, 80, 80) rgb(50, 80, 80)",
+      "rgb(255, 255, 255)",
+      "rgba(255, 255, 255, 0.6)",
+      "rgb(128, 155, 126)",
+      "rgb(46, 72, 76)",
+      "rgb(13, 139, 161)",
+      "rgba(255, 255, 255, 0.4)",
+      "rgba(255, 255, 255, 0.7)",
+      "rgba(255, 255, 255, 0.5)",
+      "rgb(192, 202, 195)",
+      "rgb(96, 116, 118)",
+      "rgb(97, 104, 87)",
+      "rgb(217, 227, 220) rgb(192, 202, 195) rgb(192, 202, 195)",
+      "rgba(255, 255, 255, 0.65)",
+      "rgb(160, 185, 173) rgb(192, 202, 195) rgb(192, 202, 195)",
+      "rgb(160, 185, 173) rgb(192, 202, 195)"
+    ]
+  },
+  "fonts": [
+    "\"Times New Roman\"",
+    "\"Libre Baskerville\", sans-serif",
+    "\"Julius Sans One\", sans-serif"
+  ],
+  "spacing": [
+    "0px",
+    "0px 192px",
+    "60px 0px 5px",
+    "15px 0px 0px",
+    "5px 0px 60px 70px",
+    "52px 96px 16px 192px",
+    "12px 0px",
+    "12px 0px 0px",
+    "1px 10px 0px 32px",
+    "-1px -10px -1px -6px",
+    "16px 96px 16px 192px",
+    "16px 96px 64px 192px",
+    "64px 729.594px 16px 192px",
+    "16px 729.594px 64px 192px",
+    "64px 0px 16px",
+    "0px 96px 0px 192px",
+    "16px 96px 0px 192px",
+    "96px 230.391px",
+    "48px 192px",
+    "76px 0px 0px",
+    "0px 48px",
+    "0px 0px 20px",
+    "57.6px 0px 0px",
+    "24px 0px",
+    "0px 187.969px 0px 93.9844px",
+    "0px 0px 4.8px",
+    "0px 71px",
+    "0px 191.922px 0px 95.9531px",
+    "24px 0px 20px"
+  ]
+}
