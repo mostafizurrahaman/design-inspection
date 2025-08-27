@@ -1,0 +1,57 @@
+{
+   "typogrpahy": [
+      {
+         "tags": "h1",
+         "fontFamily": "",
+         "fontWieght": "",
+         "lineHeight": "",
+         "letterSpacing": "",
+         "frontStyle": "",
+         "color": "",
+         "backgroundColor": "",
+         "borderColor": "",
+         "padding": "0px",
+         "margin": "0px"
+      }
+      // should be unique each item 
+   ],
+   "spaceing": [
+      {
+         "tag": "h1",
+         "padding": "",
+         "margin": ""
+      }
+      // should be unique each item 
+   ],
+   "colors": [
+      {
+         "rgb": "",
+         "hex": "",
+         "hsl": "",
+         "name": ""
+      }
+      // should be unique each item 
+   ],
+   "fonts": [
+      {
+         "tags": "h1",
+         "fontFamily": "",
+         "fontWieght": "",
+         "lineHeight": "",
+         "letterSpacing": "",
+         "frontStyle": ""
+      }
+      // should be unique each item 
+   ],
+   "tagBasedColors": [
+      {
+         "tag": "h1",
+         "rgb": "",
+         "hex": "",
+         "hsl": "",
+         "name": ""
+      }
+      // should be unique each item 
+   ],
+   "uniqueFonts": ["Times new roman", "Arial"]
+}
